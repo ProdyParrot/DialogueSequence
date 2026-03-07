@@ -9,7 +9,8 @@ A custom Unity Editor tool that allows non-technical users to insert textual inf
 - Drag-and-drop UnityEvents
 
 ## Screenshots
-![Editor Window](scenario-editor-main.png)
+![Editor Inspector](screenshot1.png)
+![Dialogue Example](screenshot2.png)
 
 ## How to Use
 1. Open the project in Unity 6000.3+
@@ -23,5 +24,3 @@ A custom Unity Editor tool that allows non-technical users to insert textual inf
 - Clean separation between Editor and Runtime code
 
 **Note**: This demo recreates the type of editor tooling I built in professional projects. It shows my current approach to scenario development. Full professional implementations are under NDA.
-
----
