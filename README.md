@@ -10,7 +10,8 @@ A custom Unity Editor tool that allows non-technical users to insert textual inf
 
 ## Screenshots
 ![Editor Inspector](screenshot1.png)
-![Dialogue Example](screenshot2.png)
+![Dialogue Example 1](screenshot2.png)
+![Dialogue Example 2](screenshot3.png)
 
 ## How to Use
 1. Open the project in Unity 6000.3+
